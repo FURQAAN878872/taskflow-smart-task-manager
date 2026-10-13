@@ -4,12 +4,9 @@ A modern and responsive task management application built with **React.js**. Tas
 
 ## 🚀 Live Demo
 
-**Coming soon**
+**[View TaskFlow Live](https://taskflow-smarttaskmanager.netlify.app/)**
 
-## 📸 Preview
-
-> Screenshots of the application will be added here.
-
+Try TaskFlow and explore its task management features, dashboard analytics, category filters, and dark mode.
 ## ✨ Features
 
 * 📊 **Dashboard Overview**
